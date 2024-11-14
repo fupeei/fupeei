@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fupeei&label=Profile%20views&color=0e75b6&style=flat" alt="fupeei" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://65b1c1e9b5f2a20986bb7bf2--guileless-dodol-741085.netlify.app/](https://65b1c1e9b5f2a20986bb7bf2--guileless-dodol-741085.netlify.app/)
-
 - 📫 How to reach me **chrisaguileragut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
